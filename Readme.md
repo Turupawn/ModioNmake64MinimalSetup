@@ -6,16 +6,16 @@
 
 # Compile
 
-Open the ´x64 Native Tools Command Prompt for VS 2017´, go to this project directory and run:
+Open the ´x64 Native Tools Command Prompt for VS 2017´, go to this project directory and compile by executing:
 
 
-´´´bash
+```bash
 nmake
-´´´
+```
 
 # Run
 
 
-´´´bash
+```bash
 main.exe
-´´´
+```
